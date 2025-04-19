@@ -37,7 +37,7 @@ public class Recomendacion {
 
     public List<Libro> librosUsuarios(String nombreUsuario){
 
-        return jsonReader.leerHistorialUsuario(nombreUsuario).getLibros();
+        return jsonReader.leerHistorialUsuario(nombreUsuario).getlibros();
 
     }
 

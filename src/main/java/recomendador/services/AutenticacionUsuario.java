@@ -11,14 +11,8 @@ public class AutenticacionUsuario {
     List<Credenciales> credenciales = jsonReader.leerCredencialesJson();
 
     public boolean usuarioAutenticado(String nombreUsuario, String passwordUsuario){
-        if (
-                credenciales.stream().anyMatch(c->c.getUsuario().equals(nombreUsuario)) && credenciales.stream().anyMatch(c->c.getPassword().equals(passwordUsuario))
-                
-        ){
-            return true;
-        }else {
-            return false;
-        }
+
+        return credenciales.stream().anyMatch(c->c.getUsuario().equals(nombreUsuario)) && credenciales.stream().anyMatch(c->c.getPassword().equals(passwordUsuario));
 
     }
 

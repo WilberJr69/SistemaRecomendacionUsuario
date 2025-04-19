@@ -7,7 +7,7 @@ public class UsuarioHistorial {
     private String nombre;
     private List<Cancion> canciones;
     private List<Pelicula> peliculas;
-    private List<Libro> Libros;
+    private List<Libro> libros;
 
     public UsuarioHistorial() {
     }
@@ -36,11 +36,11 @@ public class UsuarioHistorial {
         this.peliculas = peliculas;
     }
 
-    public List<Libro> getLibros() {
-        return Libros;
+    public List<Libro> getlibros() {
+        return libros;
     }
 
-    public void setLibros(List<Libro> libros) {
-        Libros = libros;
+    public void setlibros(List<Libro> libros) {
+        libros = libros;
     }
 }
