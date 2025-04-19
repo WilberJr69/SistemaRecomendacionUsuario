@@ -1,0 +1,16 @@
+{
+  "nombre": "wilber",
+  "canciones": [
+    { "titulo": "Solar Flare", "artista": "Aurora Beats", "genero": "Electronica", "duracionMin": 4, "popularidad": 5 },
+    { "titulo": "Code Harmony", "artista": "DevSounds", "genero": "Lo-Fi", "duracionMin": 3, "popularidad": 4 },
+    { "titulo": "Deep Focus", "artista": "FlowLab", "genero": "Ambient", "duracionMin": 5.0, "popularidad": 80 }
+  ],
+  "peliculas": [
+    { "titulo": "El Algoritmo Final", "genero": "Ciencia Ficcion", "duracionMin": 120, "fecha": "2025-04-01", "popularidad": 5 },
+    { "titulo": "Debug Infinito", "genero": "Thriller", "duracionMin": 98, "fecha": "2025-03-25", "popularidad": 4 }
+  ],
+  "libros": [
+    { "titulo": "El Programador Pragmatico", "genero": "Tecnologia", "paginas": 320, "popularidad": 5 },
+    { "titulo": "Clean Code", "genero": "Tecnologia", "paginas": 464, "popularidad": 4 }
+  ]
+}

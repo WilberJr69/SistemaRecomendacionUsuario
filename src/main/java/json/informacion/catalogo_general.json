@@ -1,0 +1,44 @@
+{
+  "canciones": [
+    { "titulo": "Code Runner", "artista": "DevSounds", "genero": "Lo-Fi", "duracionMin": 3.2, "popularidad": 90 },
+    { "titulo": "Deep Focus", "artista": "FlowLab", "genero": "Ambient", "duracionMin": 5.0, "popularidad": 80 },
+    { "titulo": "Latidos del Ande", "artista": "Andes Fusion", "genero": "Folklore", "duracionMin": 4.5, "popularidad": 75 },
+    { "titulo": "Binary Heart", "artista": "Aurora Beats", "genero": "Electronica", "duracionMin": 4.0, "popularidad": 85 },
+    { "titulo": "Tierra y Alma", "artista": "Canto Libre", "genero": "Balada", "duracionMin": 3.8, "popularidad": 70 },
+    { "titulo": "Rios de Calma", "artista": "MeditaZen", "genero": "New Age", "duracionMin": 6.2, "popularidad": 88 },
+    { "titulo": "Guitarra del Sol", "artista": "Andes Fusion", "genero": "Folklore", "duracionMin": 5, "popularidad": 5 },
+    { "titulo": "Sombra de la Luna", "artista": "Canto Libre", "genero": "Balada", "duracionMin": 4, "popularidad": 3 },
+    { "titulo": "Aurora Interior", "artista": "MeditaZen", "genero": "Ambient", "duracionMin": 6, "popularidad": 5 },
+    { "titulo": "Susurros del Viento", "artista": "Nature Beats", "genero": "New Age", "duracionMin": 7, "popularidad": 4 },
+    { "titulo": "Solar Flare", "artista": "Aurora Beats", "genero": "Electronica", "duracionMin": 4, "popularidad": 5 },
+    { "titulo": "Code Harmony", "artista": "DevSounds", "genero": "Lo-Fi", "duracionMin": 3, "popularidad": 4 }
+  ],
+  "peliculas": [
+    { "titulo": "El Codigo del Futuro", "genero": "Ciencia Ficcion", "duracionMin": 115, "fecha": 2023, "popularidad": 92 },
+    { "titulo": "Ritmo Ancestral", "genero": "Historica", "duracionMin": 120, "fecha": 2022, "popularidad": 80 },
+    { "titulo": "Silencio Interior", "genero": "Drama", "duracionMin": 105, "fecha": 2024, "popularidad": 78 },
+    { "titulo": "Camino del Condor", "genero": "Aventura", "duracionMin": 110, "fecha": 2021, "popularidad": 83 },
+    { "titulo": "Digital Breath", "genero": "Thriller", "duracionMin": 100, "fecha": 2023, "popularidad": 87 },
+    { "titulo": "Ecos del Planeta", "genero": "Documental", "duracionMin": 90, "fecha": 2024, "popularidad": 85 },
+    { "titulo": "El Viaje del Condor", "genero": "Aventura", "duracionMin": 110, "fecha": "2025-03-10", "popularidad": 4 },
+    { "titulo": "Memorias de un Pueblo", "genero": "Historica", "duracionMin": 130, "fecha": "2025-02-28", "popularidad": 5 },
+    { "titulo": "Respira", "genero": "Drama", "duracionMin": 105, "fecha": "2025-03-15", "popularidad": 5 },
+    { "titulo": "Conexion Natural", "genero": "Documental", "duracionMin": 90, "fecha": "2025-03-05", "popularidad": 4 },
+    { "titulo": "El Algoritmo Final", "genero": "Ciencia Ficcion", "duracionMin": 120, "fecha": "2025-04-01", "popularidad": 5 },
+    { "titulo": "Debug Infinito", "genero": "Thriller", "duracionMin": 98, "fecha": "2025-03-25", "popularidad": 4 }
+  ],
+  "libros": [
+    { "titulo": "Arquitectura de Software Moderna", "genero": "Tecnologia", "paginas": 350, "popularidad": 95 },
+    { "titulo": "Mas Alla del Codigo", "genero": "Tecnologia", "paginas": 280, "popularidad": 88 },
+    { "titulo": "La Sombra del Viento", "genero": "Novela", "paginas": 520, "popularidad": 90 },
+    { "titulo": "Mindfulness para Programadores", "genero": "Autoayuda", "paginas": 200, "popularidad": 75 },
+    { "titulo": "Civilizaciones", "genero": "Historia", "paginas": 600, "popularidad": 82 },
+    { "titulo": "Psicologia del Comportamiento", "genero": "Psicologico", "paginas": 340, "popularidad": 79 },
+    { "titulo": "Los Rios Profundos", "genero": "Novela", "paginas": 210, "popularidad": 4 },
+    { "titulo": "El Tunel", "genero": "Psicologico", "paginas": 160, "popularidad": 5 },
+    { "titulo": "El Poder del Ahora", "genero": "Autoayuda", "paginas": 240, "popularidad": 5 },
+    { "titulo": "Sapiens", "genero": "Historia", "paginas": 498, "popularidad": 4 },
+    { "titulo": "El Programador Pragmatico", "genero": "Tecnologia", "paginas": 320, "popularidad": 5 },
+    { "titulo": "Clean Code", "genero": "Tecnologia", "paginas": 464, "popularidad": 4 }
+  ]
+}

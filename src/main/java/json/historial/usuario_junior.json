@@ -1,0 +1,15 @@
+{
+  "nombre": "junior",
+  "canciones": [
+    { "titulo": "Guitarra del Sol", "artista": "Andes Fusion", "genero": "Folklore", "duracionMin": 5, "popularidad": 5 },
+    { "titulo": "Sombra de la Luna", "artista": "Canto Libre", "genero": "Balada", "duracionMin": 4, "popularidad": 3 }
+  ],
+  "peliculas": [
+    { "titulo": "El Viaje del Condor", "genero": "Aventura", "duracionMin": 110, "fecha": "2025-03-10", "popularidad": 4 },
+    { "titulo": "Memorias de un Pueblo", "genero": "Historica", "duracionMin": 130, "fecha": "2025-02-28", "popularidad": 5 }
+  ],
+  "libros": [
+    { "titulo": "Los Rios Profundos", "genero": "Novela", "paginas": 210, "popularidad": 4 },
+    { "titulo": "El Tunel", "genero": "Psicologico", "paginas": 160, "popularidad": 5 }
+  ]
+}

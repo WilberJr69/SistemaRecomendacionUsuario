@@ -1,0 +1,15 @@
+{
+  "nombre": "paz",
+  "canciones": [
+    { "titulo": "Aurora Interior", "artista": "MeditaZen", "genero": "Ambient", "duracionMin": 6, "popularidad": 5 },
+    { "titulo": "Susurros del Viento", "artista": "Nature Beats", "genero": "New Age", "duracionMin": 7, "popularidad": 4 }
+  ],
+  "peliculas": [
+    { "titulo": "Respira", "genero": "Drama", "duracionMin": 105, "fecha": "2025-03-15", "popularidad": 5 },
+    { "titulo": "Conexion Natural", "genero": "Documental", "duracionMin": 90, "fecha": "2025-03-05", "popularidad": 4 }
+  ],
+  "libros": [
+    { "titulo": "El Poder del Ahora", "genero": "Autoayuda", "paginas": 240, "popularidad": 5 },
+    { "titulo": "Sapiens", "genero": "Historia", "paginas": 498, "popularidad": 4 }
+  ]
+}
